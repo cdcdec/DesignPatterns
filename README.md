@@ -14,7 +14,7 @@
 
 其实还有两类：并发型模式和线程池模式。
 
-## 、设计模式的六大原则
+## 二、设计模式的六大原则
 
 1、开闭原则（Open Close Principle）
 
@@ -43,4 +43,4 @@
 
 ## 其它
 
-* [Command](src/com.aaron/command/Command.md)
+* [Command](src/com/aaron/command/Command.md)
